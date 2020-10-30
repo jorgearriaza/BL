@@ -1,3 +1,17 @@
+# Title: StevenBlack/hosts with the social extension
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 29 October 2020 14:43:28 (UTC)
+# Extensions added to this file: social
+# Number of unique domains: 61,469
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -13,5 +27,15 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Hosts contributed by Steven Black
+# http://stevenblack.com
 
 0.0.0.0 youtube.com
